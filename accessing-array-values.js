@@ -17,8 +17,10 @@ for (let foods of food) {
 }
 //3. метод forEach
 food.forEach(Element => console.log(Element)) // элемент М в отдельной строке
+food.forEach(console.log) // короткая форма
+
 
 // найти ошибку
-food.forEach(Element) => {
-    console.log(`${item} имеет позицию ${index}`);
-}
+//food.forEach(Element) => {
+//   console.log(`${item} имеет позицию ${index}`);
+//}

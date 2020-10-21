@@ -25,7 +25,7 @@ console.log(arr.concat(['World!'])); //[ 'h', 'e', 'l', 'l', 'o', 'World!' ]
 //  console.log(arr.concat(arrLike));// 
 
 
-
+// .filter - 
 const defined = numbers.filter(
     function evenNumbers(number) {
         return number % 2 === 0 //остаток от деления на 2, четное 
