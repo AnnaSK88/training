@@ -28,7 +28,7 @@ console.log(countAwerageWordLen(clearText))
 // выдает ошибку Identifier 'cleanText' has already been declared
 
 
-//1. переменная типа строка с произвольным текст
+//1. переменная типа строка с произвольным текстом
 //2. вводим переменную cleanText, к-ая отраб-т ф-цию:
 //   2.1 заменяет все точки и запятые на пустые строки
 
